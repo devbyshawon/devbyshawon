@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shawon Hossain 👋
 
-<!--
-**devbyshawon/devbyshawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year CSE student at BRAC University passionate about 
+full-stack development and AI/ML research.
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
+**[TaskFlow](https://github.com/devbyshawon/taskflow-frontend)** — 
+A full-stack team project management app built with MERN stack.
+[Live Demo](https://taskflow-shawon.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+**Languages:** JavaScript, Python  
+**Frontend:** React, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Currently Learning:** AI/ML, Vision-Language Models
+
+## 📫 Contact
+[LinkedIn](https://linkedin.com/in/devbyshawon) · 
+[Email](mailto:shawon12hossain@gmail.com)
