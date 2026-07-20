@@ -16,5 +16,5 @@ A full-stack team project management app built with MERN stack.
 **Currently Learning:** AI/ML, Vision-Language Models
 
 ## 📫 Contact
-[LinkedIn](https://linkedin.com/in/devbyshawon) · 
+[LinkedIn](https://linkedin.com/in/devbyshawon-) · 
 [Email](mailto:shawon12hossain@gmail.com)
